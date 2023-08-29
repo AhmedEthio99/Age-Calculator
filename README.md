@@ -1,0 +1,1 @@
+This is a website that calculates your age after choosing your birthday or you can even calculate someone elses age with a click of a button i used javascrpit for these calculations to happen it counts years months and days
